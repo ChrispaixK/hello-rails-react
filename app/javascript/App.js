@@ -5,7 +5,7 @@ import Greeting from "./pages/Greeting";
 const App = () => {
   return <>
     <h1>Hello Rails-React!</h1>
-    <Link to="/greeting">Greeting page</Link>
+    <Link to="/greeting">Generate greeting</Link>
     <Routes>
       <Route path="/greeting" element={<Greeting/>}/>
     </Routes>
