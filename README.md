@@ -1,24 +1,45 @@
-# README
+# Hello-react-rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> A simple App that generate random greeting messages
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby on Rails
+- React
+- Redux
+- Webpack
 
-* System dependencies
+### Prerequisites
 
-* Configuration
+- Ruby runtime environment
+- Postgresql
+- Rails
+- React
 
-* Database creation
+## Getting Started
 
-* Database initialization
+To get a local copy up and running follow these simple example steps.
 
-* How to run the test suite
+- Clone the repository
+- install necessary gems `bundle install`
+    
+## Author
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Chrispaix Kaze**
 
-* Deployment instructions
+- GitHub: [@Chrispaix Kaze](https://github.com/ChrispaixK)
+- Twitter: [@Chrispaix Kaze](https://twitter.com/ChrispaixK)
+- LinkedIn: [Chrispaix Kaze](https://www.linkedin.com/in/chrispaix-kaze-70445a175/)
+## 🤝 Contributing
 
-* ...
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse Inc
